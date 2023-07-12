@@ -1,2 +1,2 @@
 # BetterRest
- SwiftUI Sleep Assistant
+ SwiftUI Sleep Assistant with trained model
